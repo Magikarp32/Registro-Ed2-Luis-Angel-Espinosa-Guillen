@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "David Arrollo",
+        "especialidad": "Redes",
+        "numero_empleado": 1,
+        "fecha_registro": "2025-11-14T19:32:38.232496"
+    },
+    {
+        "nombre": "Jose Luis Flores Leandro",
+        "especialidad": "Redes",
+        "numero_empleado": 2,
+        "fecha_registro": "2025-11-14T19:33:14.040216"
+    },
+    {
+        "nombre": "Javier Aleman",
+        "especialidad": "Redes",
+        "numero_empleado": 4,
+        "fecha_registro": "2025-11-14T19:37:19.942566"
+    }
+]

@@ -1,0 +1,10 @@
+docentes:
+  - nombre: David Arrollo
+    especialidad: Redes
+    numero_empleado: 1
+  - nombre: Jose Luis Flores Leandro
+    especialidad: Redes
+    numero_empleado: 2
+  - nombre: Javier Aleman
+    especialidad: Redes
+    numero_empleado: 4

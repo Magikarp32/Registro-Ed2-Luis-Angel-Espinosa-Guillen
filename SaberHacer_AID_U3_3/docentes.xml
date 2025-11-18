@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<docentes>
+  <docente>
+    <nombre>David Arrollo</nombre>
+    <especialidad>Redes</especialidad>
+    <numero_empleado>1</numero_empleado>
+  </docente>
+  <docente>
+    <nombre>Jose Luis Flores Leandro</nombre>
+    <especialidad>Redes</especialidad>
+    <numero_empleado>2</numero_empleado>
+  </docente>
+  <docente>
+    <nombre>Javier Aleman</nombre>
+    <especialidad>Redes</especialidad>
+    <numero_empleado>4</numero_empleado>
+  </docente>
+</docentes>
